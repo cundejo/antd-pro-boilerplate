@@ -38,10 +38,10 @@ const UserLayout = props => {
             <div className={styles.header}>
               <Link to="/">
                 <img alt="logo" className={styles.logo} src={logo} />
-                <span className={styles.title}>Guru Noticias</span>
+                <span className={styles.title}>Antd Pro Boilerplate</span>
               </Link>
             </div>
-            <div className={styles.desc}>Manager</div>
+            <div className={styles.desc}>Project stater</div>
           </div>
           {children}
         </div>

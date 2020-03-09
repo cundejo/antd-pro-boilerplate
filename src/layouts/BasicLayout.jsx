@@ -40,9 +40,9 @@ const footerRender = () => (
     copyright="2019"
     links={[
       {
-        key: 'Guru Noticias',
-        title: 'Guru Noticias',
-        href: 'https://gurunoticias.com',
+        key: 'Antd Pro Boilerplate',
+        title: 'Antd Pro Boilerplate',
+        href: 'https://ant.design/',
         blankTarget: true,
       },
     ]}

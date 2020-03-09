@@ -10,7 +10,7 @@ export default {
   menu: {
     locale: false,
   },
-  title: 'GN Manager',
-  pwa: false,
+  title: 'Boilerplate',
+  pwa: true,
   iconfontUrl: '',
 };
